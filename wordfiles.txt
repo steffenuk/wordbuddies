@@ -1,2 +1,2 @@
-#default1.txt
-#system2.txt
+default1.txt
+systemwords1.txt
