@@ -1,3 +1,4 @@
+#Dyr (dansk)
 Hund
 Kat
 Hest
