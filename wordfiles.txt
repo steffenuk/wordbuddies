@@ -4,3 +4,4 @@ Danske_personer.txt
 Navneord.txt
 Verber.txt
 Adjektiver.txt
+Geografi.txt
