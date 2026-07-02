@@ -1,2 +1,6 @@
-default1.txt
-systemwords1.txt
+Danske_byer.txt
+Dyr.txt
+Danske_personer.txt
+Navneord.txt
+Verber.txt
+Adjektiver.txt
