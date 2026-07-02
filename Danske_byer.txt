@@ -1,4 +1,4 @@
-#Danske byer
+#Danske byer (dansk)
 København
 Aarhus
 Odense
