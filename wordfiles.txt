@@ -5,3 +5,4 @@ Navneord.txt
 Verber.txt
 Adjektiver.txt
 Geografi.txt
+Internationale_personer.txt
