@@ -1,6 +1,4 @@
 #Kun for sjov
-Kun i bash-outputtet — ikke direkte i chatten. Her er alle ordene:
-
 abc-bog
 abe
 abrikos
